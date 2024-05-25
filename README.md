@@ -21,3 +21,4 @@ board = [list(map(int, input.split())) for _ in range(N)] # 2차원 리스트 �
 data = input().rstrip() # 문자열 입력 받기
 ```
 
+어우 귀찮아
